@@ -1,2 +1,2 @@
 # Net-Run-Rate-Calculator
-To Calculate Net Run Rate  Of Cricket Match or Series
+ A Python Code To Calculate Net Run Rate  Of Cricket Match or Series using the teams scores and overs 
